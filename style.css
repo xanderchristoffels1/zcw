@@ -1,0 +1,81 @@
+body{
+    overflow-x: hidden;
+}
+
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 7;
+  }
+
+
+.bold{
+    font-weight: bold;
+}
+
+.logo {
+    width: 100px;
+    overflow: hidden;
+}
+
+
+.banner{
+    height: 82vh;
+    width: 100vw;
+    background-color: rgb(82, 82, 196);
+    background-image: url("https://images.pexels.com/photos/5374774/pexels-photo-5374774.jpeg?cs=srgb&dl=pexels-engin-akyurt-5374774.jpg&fm=jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.banner-title{
+    color: rgb(255, 250, 250);
+    font-size: 100px;
+    position: center;
+    text-align: center;
+    font-family: nunito;
+    text-shadow: 2px 2px 5px #0b064d;
+    font-weight: bold;
+    margin-top: 25vh;
+}
+.banner-title-div{
+    position: absolute;
+    width: 100vw;
+    
+}
+.banner-bg{
+    width: 98.9vw;
+    height: 85vh;
+    position: absolute;
+}
+
+
+.service-icon-swimmer{
+    color: #4D77FF;
+    font-size: 3em;
+}
+
+
+
+
+.onzeZwemclub-intro{
+    font-size: 1.2em;
+}
+
+
+
+
+
+
+.lessen-list-li{
+    font-size: 1.2em;
+}
+
+
+.onzeZwemclub-intro-title{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #53585d;
+}
